@@ -1,0 +1,16 @@
+/*Custom css for Nhandecy - Sarah Goncalves sarah.goncalves@gmail.com */
+
+/*Home*/
+
+/*Banner abaixo do slider home*/
+
+@media (min-width: 992px) {
+    #cmsblock-33 .banner-static-inner {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+
+#cmsblock-33 .banner-static h2 {
+    text-transform: unset;
+}
